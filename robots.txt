@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://huzaifh02.github.io/sitemap.xml
